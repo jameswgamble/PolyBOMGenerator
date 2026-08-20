@@ -1,5 +1,5 @@
 
-const VERSION = "v9.90";
+const VERSION = "v10.0";
 // script.js – HP | Poly Configurator – v9.74
 
 document.title = 'Poly Video Conferencing "Bill" of Materials Generator';
